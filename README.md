@@ -11,7 +11,7 @@ Note Taker can be used to write and save notes. It uses an Express.js back end a
 
 ## Credits
 
-Salissa Helped me on this homework a lot
+This homework had a reference to Salissa.
 https://github.com/Salissa4/NoteTaker
 
 Past homework assignments were used as resources and helped.
